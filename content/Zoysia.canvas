@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"672638c9f705692c","type":"file","file":"3. Resource/Proposte/Proposte 2023.md","x":-1920,"y":-880,"width":400,"height":1080},
+		{"id":"3b0c7f3e53592f30","type":"file","file":"Canzoni/Ufficiali/Lista Canzoni.md","x":-1280,"y":-600,"width":400,"height":720},
+		{"id":"d0199011a38d6e9f","type":"file","file":"2. Area/Social.md","x":-360,"y":-1080,"width":400,"height":400},
+		{"id":"6d60f92b7186960f","type":"text","text":"Zoysia","x":-633,"y":-382,"width":250,"height":60},
+		{"id":"b3a27b409d36012d","type":"file","file":"2. Area/Idee.md","x":40,"y":-322,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"fd4775f1182fe6b0","fromNode":"6d60f92b7186960f","fromSide":"top","toNode":"3b0c7f3e53592f30","toSide":"right"},
+		{"id":"323921e78a1e62a5","fromNode":"3b0c7f3e53592f30","fromSide":"left","toNode":"672638c9f705692c","toSide":"right"},
+		{"id":"1ca10e7211f6d531","fromNode":"6d60f92b7186960f","fromSide":"top","toNode":"d0199011a38d6e9f","toSide":"bottom"},
+		{"id":"badfc8b197c620d2","fromNode":"6d60f92b7186960f","fromSide":"bottom","toNode":"b3a27b409d36012d","toSide":"left"},
+		{"id":"30f9016a16a09cee","fromNode":"3b0c7f3e53592f30","fromSide":"bottom","toNode":"364cac43919c62a0","toSide":"top"}
+	]
+}

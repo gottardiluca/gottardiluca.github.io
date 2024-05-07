@@ -1,0 +1,12 @@
+console eset
+	https://eset.infogest.tn.it:221
+
+
+nas lab solo cartella eset
+	https://eset.infogest.tn.it:6443/filestation
+	eset	eset		vedi solo cartella eset installer
+	admin	Gest2006	vedi tutte le licenze anche
+
+
+nas ufficio
+		https://eset.infogest.tn.it:8090
